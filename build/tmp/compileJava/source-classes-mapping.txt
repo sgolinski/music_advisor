@@ -1,0 +1,33 @@
+SpotifyServer.java
+ SpotifyServer
+Wrapper.java
+ Wrapper
+ExternalUrl.java
+ ExternalUrl
+SpotifyClient.java
+ SpotifyClient
+Image.java
+ Image
+WrapperCategories.java
+ WrapperCategories
+ WrapperCategories$Categories
+ WrapperCategories$Categories$CategoryItem
+ WrapperCategories$Categories$CategoryItem$CategoryIcon
+WrapperPlaylists.java
+ WrapperPlaylists
+ WrapperPlaylists$Playlist
+ WrapperPlaylists$Playlist$Follower
+ WrapperPlaylists$Playlist$Owner
+WrapperNewReleased.java
+ WrapperNewReleased
+ WrapperNewReleased$Albums
+ WrapperNewReleased$Albums$AlbumItem
+ WrapperNewReleased$Albums$AlbumItem$Artist
+Main.java
+ Main
+WrapperFeatured.java
+ WrapperFeatured
+ WrapperFeatured$FeaturedPlaylist
+ WrapperFeatured$FeaturedPlaylist$PlaylistItem
+ WrapperFeatured$FeaturedPlaylist$PlaylistItem$OwnerFeatured
+ WrapperFeatured$FeaturedPlaylist$PlaylistItem$Track
